@@ -1,1 +1,1 @@
-# gh-store
+"# nextjs-tailwind-scaffold" 
